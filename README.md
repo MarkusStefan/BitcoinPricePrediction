@@ -6,7 +6,7 @@ Throughout the project, my aim was to showcase on a scientific level the use cas
 Long Short-Term Memory ($LSTM$) Models. It is *not* intended to be implemented for real-live investment purposes, but rather to really understand why and how
 these models work and forecast certain values.
 
-Additionally, I gained knowledge on how to put ML frameworks such as $Tensorflow$ and $Sci-kit Learn$ to use. 
+Additionally, I gained knowledge on how to put ML frameworks such as ´´´Tensorflow´´´ and ´´´Sci-kit Learn´´´ to use. 
 
 So please take this project with a grain of salt ;-) 
 
